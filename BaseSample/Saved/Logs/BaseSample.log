@@ -1063,3 +1063,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.08.31-19.35.03:076][814]LogEditorActor: Deleted Actor: Brush
 [2023.08.31-19.35.03:096][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2023.08.31-19.35.03:130][814]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.08.31-19.36.28:512][208]Cmd: TRANSACTION UNDO
+[2023.08.31-19.36.28:512][208]LogEditorTransaction: Undo Select Brush Surface
+[2023.08.31-19.36.29:447][227]Cmd: TRANSACTION UNDO
+[2023.08.31-19.36.29:447][227]LogEditorTransaction: Undo Delete Actors
+[2023.08.31-19.36.30:545][247]Cmd: TRANSACTION UNDO
+[2023.08.31-19.36.30:545][247]LogEditorTransaction: Undo Select Brush Surface
+[2023.08.31-19.37.14:786][404]Cmd: TRANSACTION UNDO
+[2023.08.31-19.37.14:786][404]LogEditorTransaction: Undo Scale Actors
+[2023.08.31-19.37.18:486][483]Cmd: TRANSACTION UNDO
+[2023.08.31-19.37.18:486][483]LogEditorTransaction: Undo Scale Actors
+[2023.08.31-19.38.08:675][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.08.31-19.38.08:724][943]LogSavePackage: Moving '../../../../../../Users/Ty Spurlock/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Saved/ThirdPersonExampleMap9C5AC18F455FB113A3673EA3A1D52E68.tmp' to '../../../../../../Users/Ty Spurlock/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.08.31-19.38.08:767][943]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.08.31-19.38.08:767][943]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.08.31-19.38.13:708][ 92]Cmd: EDIT COPY
+[2023.08.31-19.38.14:474][115]Cmd: EDIT PASTE
+[2023.08.31-19.38.25:638][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.08.31-19.38.25:711][441]LogSavePackage: Moving '../../../../../../Users/Ty Spurlock/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Saved/ThirdPersonExampleMapEE37D2B04A20357D135077A9CB07D352.tmp' to '../../../../../../Users/Ty Spurlock/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.08.31-19.38.25:781][441]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.08.31-19.38.25:781][441]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.08.31-19.38.32:921][655]Cmd: EDIT COPY
+[2023.08.31-19.38.33:487][672]Cmd: EDIT PASTE
+[2023.08.31-19.38.53:553][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.08.31-19.38.55:049][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.08.31-19.39.02:216][523]Cmd: TRANSACTION UNDO
+[2023.08.31-19.39.02:216][523]LogEditorTransaction: Undo Move Actors
+[2023.08.31-19.39.25:462][957]LogActorFactory: Actor Factory created Cube
+[2023.08.31-19.39.26:688][993]LogActorFactory: Actor Factory created Cube
+[2023.08.31-19.39.27:743][ 25]Cmd: TRANSACTION UNDO
+[2023.08.31-19.39.27:743][ 25]LogEditorTransaction: Undo Create Actors
+[2023.08.31-19.39.33:049][139]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.08.31-19.39.52:420][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.08.31-19.39.52:472][717]LogSavePackage: Moving '../../../../../../Users/Ty Spurlock/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Saved/ThirdPersonExampleMap4F12F11C4CE574E0D48FB2BBF762E52D.tmp' to '../../../../../../Users/Ty Spurlock/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.08.31-19.39.52:531][717]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.08.31-19.39.52:531][717]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
