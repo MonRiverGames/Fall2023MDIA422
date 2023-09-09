@@ -1204,3 +1204,103 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.09-00.13.42:439][698]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.09.09-00.13.42:439][698]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
 [2023.09.09-00.13.42:439][698]LogFileHelpers: Loading map 'Brown' took 0.025
+[2023.09.09-00.14.26:717][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.09-00.14.26:751][443]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Christian.Christian
+[2023.09.09-00.14.26:752][443]Cmd: MAP LOAD FILE="D:/Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Christian.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.09-00.14.26:752][443]LightingResults: New page: Lighting Build
+[2023.09.09-00.14.26:752][443]LoadErrors: New page: Loading map: Christian.umap
+[2023.09.09-00.14.26:754][443]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-00.14.26:754][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-00.14.26:754][443]MapCheck: New page: Map Check
+[2023.09.09-00.14.26:754][443]LightingResults: New page: Lighting Build
+[2023.09.09-00.14.26:759][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.09-00.14.26:760][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.09-00.14.26:762][443]LogAudio: Display: Audio Device (ID: 1) registered with world 'Christian'.
+[2023.09.09-00.14.26:765][443]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.09-00.14.26:765][443]LogAIModule: Creating AISystem for world Christian
+[2023.09.09-00.14.26:771][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.09-00.14.26:774][443]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.09-00.14.26:774][443]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2023.09.09-00.14.26:774][443]LogFileHelpers: Loading map 'Christian' took 0.023
+[2023.09.09-00.14.28:068][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.09.09-00.14.28:123][586]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Brown.Brown
+[2023.09.09-00.14.28:123][586]Cmd: MAP LOAD FILE="D:/Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.09-00.14.28:123][586]LightingResults: New page: Lighting Build
+[2023.09.09-00.14.28:123][586]LoadErrors: New page: Loading map: Brown.umap
+[2023.09.09-00.14.28:163][586]LogWorld: UWorld::CleanupWorld for Christian, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-00.14.28:164][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-00.14.28:164][586]MapCheck: New page: Map Check
+[2023.09.09-00.14.28:164][586]LightingResults: New page: Lighting Build
+[2023.09.09-00.14.28:169][586]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.09-00.14.28:171][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.09-00.14.28:171][586]LogAudio: Display: Audio Device (ID: 1) registered with world 'Brown'.
+[2023.09.09-00.14.28:172][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh_5.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:172][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:172][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:173][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh3.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh4.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh7.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh8.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh9.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh10.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh11.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh12.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:174][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh22.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh23.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh24.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh25.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.09.09-00.14.28:175][586]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.09.09-00.14.28:177][586]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.09-00.14.28:177][586]LogAIModule: Creating AISystem for world Brown
+[2023.09.09-00.14.28:185][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.09.09-00.14.28:188][586]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.09-00.14.28:188][586]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2023.09.09-00.14.28:188][586]LogFileHelpers: Loading map 'Brown' took 0.066
+[2023.09.09-00.14.39:390][814]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
