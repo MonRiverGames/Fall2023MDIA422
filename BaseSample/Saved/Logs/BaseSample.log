@@ -2094,3 +2094,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.12-13.11.00:972][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.10.12-13.11.00:975][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
 [2023.10.12-13.11.01:016][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.10.12-16.25.10:436][623]LogSavePackage: Moving '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Saved/CharacterGuyAnimationBP6184489340DEC074C2F8B9B89851789F.tmp' to '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Animations/CharacterGuy/CharacterGuyAnimationBP.uasset'
+[2023.10.12-16.25.10:448][623]AssetCheck: New page: Asset Save: CharacterGuyAnimationBP
+[2023.10.12-16.25.10:448][623]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Animations/CharacterGuy/CharacterGuyAnimationBP.CharacterGuyAnimationBP
+[2023.10.12-16.25.11:052][693]LogSavePackage: Moving '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Saved/CharacterGuyAnimationBP0D58E18C452B65A42117BBA823E52A75.tmp' to '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Animations/CharacterGuy/CharacterGuyAnimationBP.uasset'
+[2023.10.12-16.25.11:060][693]AssetCheck: New page: Asset Save: CharacterGuyAnimationBP
+[2023.10.12-16.25.11:060][693]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Animations/CharacterGuy/CharacterGuyAnimationBP.CharacterGuyAnimationBP
+[2023.10.12-16.25.15:190][ 57]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.15:190][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.15:196][ 57]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.15:196][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.15:248][ 57]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.15:248][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.18:019][316]LogSavePackage: Moving '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Saved/CharacterGuyBlendSpace4739EEEE4864066833CBAA89A7DDE89B.tmp' to '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Animations/CharacterGuy/CharacterGuyBlendSpace.uasset'
+[2023.10.12-16.25.18:025][316]AssetCheck: New page: Asset Save: CharacterGuyBlendSpace
+[2023.10.12-16.25.18:025][316]LogContentValidation: Display: Validating BlendSpace1D /Game/ThirdPersonBP/Animations/CharacterGuy/CharacterGuyBlendSpace.CharacterGuyBlendSpace
+[2023.10.12-16.25.23:563][910]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.23:563][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.23:603][910]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.23:603][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.26:620][210]LogSavePackage: Moving '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Saved/Guy_BP3063D7B84BDEA472A1498DBDF1D6CF83.tmp' to '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Animations/CharacterGuy/Guy_BP.uasset'
+[2023.10.12-16.25.26:628][210]AssetCheck: New page: Asset Save: Guy_BP
+[2023.10.12-16.25.26:628][210]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Animations/CharacterGuy/Guy_BP.Guy_BP
+[2023.10.12-16.25.28:603][427]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.12-16.25.28:603][427]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.28:603][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.31:886][749]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.31:886][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.31:891][749]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.31:891][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.31:938][749]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-16.25.31:938][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-16.25.47:437][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.12-16.25.47:458][557]LogSavePackage: Moving '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Saved/Heather32E21238495C2FBCDD153FA64F5EF16F.tmp' to '../../../../../../Users/monri/OneDrive/Documents/GitHub/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Heather.umap'
+[2023.10.12-16.25.47:473][557]AssetCheck: New page: Asset Save: Heather
+[2023.10.12-16.25.47:473][557]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Heather.Heather
