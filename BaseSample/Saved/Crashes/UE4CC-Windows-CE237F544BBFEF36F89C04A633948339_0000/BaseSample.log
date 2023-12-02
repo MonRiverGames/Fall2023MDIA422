@@ -1,0 +1,1741 @@
+﻿Log file open, 12/02/23 00:46:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BaseSample
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231382
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.12.02-05.46.46:548][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.12.02-05.46.46:548][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.12.02-05.46.46:548][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Engine.ini]
+[2023.12.02-05.46.46:548][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.12.02-05.46.46:548][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Engine.ini]
+[2023.12.02-05.46.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Engine.ini]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Engine.ini]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.12.02-05.46.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Engine.ini]
+[2023.12.02-05.46.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Engine.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.12.02-05.46.46:553][  0]LogInit: Selected Device Profile: [Windows]
+[2023.12.02-05.46.46:553][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.12.02-05.46.46:553][  0]LogHAL: Display: Platform has ~ 16 GB [17080209408 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.12.02-05.46.46:553][  0]LogInit: Going up to parent DeviceProfile []
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.12.02-05.46.46:553][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Scalability.ini]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2023.12.02-05.46.46:554][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.12.02-05.46.46:555][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.12.02-05.46.46:555][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.12.02-05.46.46:555][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.12.02-05.46.46:555][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Engine.ini]
+[2023.12.02-05.46.46:555][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Config/Windows/Editor.ini]
+[2023.12.02-05.46.46:555][  0]LogInit: Computer: DESKTOP-6MDHMP5
+[2023.12.02-05.46.46:555][  0]LogInit: User: lewis
+[2023.12.02-05.46.46:555][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.12.02-05.46.46:555][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.12.02-05.46.46:555][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.12.02-05.46.46:555][  0]LogMemory: Platform Memory Stats for Windows
+[2023.12.02-05.46.46:555][  0]LogMemory: Process Physical Memory: 145.94 MB used, 145.94 MB peak
+[2023.12.02-05.46.46:555][  0]LogMemory: Process Virtual Memory: 128.55 MB used, 128.55 MB peak
+[2023.12.02-05.46.46:555][  0]LogMemory: Physical Memory: 8058.38 MB used,  8230.58 MB free, 16288.96 MB total
+[2023.12.02-05.46.46:555][  0]LogMemory: Virtual Memory: 134203768.00 MB used,  13961.10 MB free, 134217728.00 MB total
+[2023.12.02-05.46.46:561][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.12.02-05.46.46:622][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.12.02-05.46.46:622][  0]LogInit: Using OS detected language (en-US).
+[2023.12.02-05.46.46:622][  0]LogInit: Using OS detected locale (en-US).
+[2023.12.02-05.46.46:625][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.12.02-05.46.46:777][  0]LogInit: Setting process to per monitor DPI aware
+[2023.12.02-05.46.46:791][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.12.02-05.46.46:809][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.12.02-05.46.46:809][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.12.02-05.46.47:343][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.12.02-05.46.47:349][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.12.02-05.46.47:349][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.12.02-05.46.47:349][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.12.02-05.46.47:349][  0]LogD3D11RHI: D3D11 adapters:
+[2023.12.02-05.46.47:503][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2023.12.02-05.46.47:504][  0]LogD3D11RHI:       5979/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:       0/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     DeviceId    : 2182
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     SubSysId    : 375e1462
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     DedicatedVideoMemory : 6269435904 bytes
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     SharedSystemMemory : 8540104704 bytes
+[2023.12.02-05.46.47:506][  0]LogD3D11RHI:     AdapterLuid : 0 64060
+[2023.12.02-05.46.47:511][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.12.02-05.46.47:511][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2023.12.02-05.46.47:511][  0]LogWindows: EnumDisplayDevices:
+[2023.12.02-05.46.47:511][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2023.12.02-05.46.47:511][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.12.02-05.46.47:511][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.12.02-05.46.47:511][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.12.02-05.46.47:512][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:   Driver Version: 546.01 (internal:31.0.15.4601, unified:546.01)
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:      Driver Date: 10-26-2023
+[2023.12.02-05.46.47:512][  0]LogRHI: Texture pool is 4185 MB (70% of 5979 MB)
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     DeviceId    : 2182
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     SubSysId    : 375e1462
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     DedicatedVideoMemory : 6269435904 bytes
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     SharedSystemMemory : 8540104704 bytes
+[2023.12.02-05.46.47:512][  0]LogD3D11RHI:     AdapterLuid : 0 64060
+[2023.12.02-05.46.47:604][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.12.02-05.46.47:604][  0]LogD3D11RHI: Async texture creation enabled
+[2023.12.02-05.46.47:604][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.12.02-05.46.47:630][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.12.02-05.46.47:671][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.12.02-05.46.47:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.12.02-05.46.47:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.12.02-05.46.47:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.12.02-05.46.47:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.12.02-05.46.48:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.12.02-05.46.48:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.12.02-05.46.48:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.12.02-05.46.48:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.12.02-05.46.48:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.12.02-05.46.48:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.12.02-05.46.48:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.12.02-05.46.48:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.12.02-05.46.48:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.12.02-05.46.48:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.12.02-05.46.48:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.12.02-05.46.48:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.12.02-05.46.48:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.12.02-05.46.48:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.12.02-05.46.48:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.12.02-05.46.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.12.02-05.46.48:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.12.02-05.46.48:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.12.02-05.46.48:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.12.02-05.46.48:159][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.12.02-05.46.48:175][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.12.02-05.46.48:230][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.12.02-05.46.48:288][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.12.02-05.46.48:288][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../Users/Brown/Fall2023MDIA422/BaseSample/Intermediate/Shaders/WorkingDirectory/2104/).
+[2023.12.02-05.46.48:288][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lewis/AppData/Local/Temp/UnrealShaderWorkingDir/A3FD6C8F4B515923BED02B97EF4DF0CA/'.
+[2023.12.02-05.46.48:289][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.12.02-05.46.48:289][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.12.02-05.46.48:289][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.12.02-05.46.49:127][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.12.02-05.46.49:181][  0]LogDerivedDataCache: Loaded boot cache 0.05s 116MB C:/Users/lewis/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.12.02-05.46.49:181][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lewis/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.12.02-05.46.49:181][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/Brown/Fall2023MDIA422/BaseSample/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.12.02-05.46.49:181][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.12.02-05.46.49:181][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/Brown/Fall2023MDIA422/BaseSample/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.02-05.46.49:181][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.12.02-05.46.49:196][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.12.02-05.46.49:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.12.02-05.46.49:196][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.12.02-05.46.49:207][  0]LogDerivedDataCache: Speed tests for C:/Users/lewis/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.12.02-05.46.49:207][  0]LogDerivedDataCache: Display: Performance to C:/Users/lewis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=223.23MBs, RandomWriteSpeed=136.55MBs. Assigned SpeedClass 'Local'
+[2023.12.02-05.46.49:207][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lewis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.12.02-05.46.49:208][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.12.02-05.46.49:208][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.12.02-05.46.49:244][  0]LogSlate: Using FreeType 2.10.0
+[2023.12.02-05.46.49:247][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.12.02-05.46.49:290][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2023.12.02-05.46.49:499][  0]LogInit: Selected Device Profile: [Windows]
+[2023.12.02-05.46.49:499][  0]LogInit: Active device profile: [0000024C694ECC00][0000024C6A120F80 49] Windows
+[2023.12.02-05.46.49:499][  0]LogInit: Profiles: [0000024C694ECC00][0000024C6A120F80 49] Windows, [0000024C694BE200][0000024C6A1B9100 49] WindowsNoEditor, [0000024C694EDA00][0000024C6A1BD280 49] WindowsServer, [0000024C694BEF00][0000024C62243400 49] WindowsClient, [0000024C694EE600][0000024C622D5580 49] IOS, [0000024C694BCE00][0000024C622DD700 49] iPadAir, [0000024C694ECA00][0000024C622E1880 49] iPadAir2, [0000024C6A5D0F00][0000024C6222DB40 49] IPadPro, [0000024C6A5D1000][0000024C62229B80 49] iPadAir3, [0000024C694BE300][0000024C62230180 49] iPadAir4, [0000024C6A5D3500][0000024C62234300 49] iPadMini2, [0000024C694BF300][0000024C62238480 49] iPadMini3, [0000024C6A5D3B00][0000024C6223C600 49] iPadMini4, [0000024C694BF200][0000024C65AB2780 49] iPadMini5, [0000024C6A5D8800][0000024C65ABAA40 49] iPhone6, [0000024C6A5D8900][0000024C65AB6A80 49] iPodTouch6, [0000024C694EF000][0000024C65ABECC0 49] iPhone7, [0000024C694EF100][0000024C6A124D00 49] iPodTouch7, [0000024C6A5D3100][0000024C65AC2E40 49] iPhone5S, [0000024C6A5D0600][0000024C65AC6F80 49] iPhone6Plus, [0000024C6A5DA800][0000024C65ACF100 49] iPhone6S, [0000024C6A5D1700][0000024C65AD3280 49] iPhone6SPlus, [0000024C6A5DA600][0000024C65AD7400 49] iPhone7Plus, [0000024C6A5D0800][0000024C65ADB580 49] iPhoneSE, [0000024C6A5DA500][0000024C62667700 49] iPhone8, [0000024C6A5D1900][0000024C6266B880 49] iPhone8Plus, [0000024C694EE900][0000024C6266FA00 49] iPhoneX, [0000024C6A5D2B00][0000024C62673B80 49] iPhoneXS, [0000024C694EED00][0000024C62676180 49] iPhoneXSMax, [0000024C6A5D0C00][0000024C6267A300 49] iPhoneXR, [0000024C694EC200][0000024C6267E480 49] iPhone11, [0000024C6A5D2500][0000024C62682600 49] iPhone11Pro, [0000024C694ED100][0000024C62686780 49] iPhone11ProMax, [0000024C6A5D0100][0000024C6268A900 49] iPhoneSE2, [0000024C694ED600][0000024C6268EA80 49] iPhone12Mini, [0000024C6A5D3C00][0000024C6B250C00 49] iPhone12, [0000024C694ED500][0000024C65ACAD40 49] iPhone12Pro, [0000024C6A5D1200][0000024C6B254E80 49] iPhone12ProMax, [0000024C694EDE00][0000024C6B258FC0 49] iPadPro105, [0000024C6A5D0200][0000024C6B25D100 49] iPadPro129, [0000024C694EC600][0000024C6B265280 49] iPadPro97, [0000024C6A5D0700][0000024C6B269400 49] iPadPro2_129, [0000024C694EE700][0000024C6B26D580 49] iPad5, [0000024C6A5D2000][0000024C6B271700 49] iPad6, [0000024C694EC900][0000024C6B275880 49] iPad7, [0000024C6A5D3800][0000024C6B279A00 49] iPad8, [0000024C694EE400][0000024C6B27DB80 49] iPadPro11, [0000024C6A5D0300][0000024C6B280180 49] iPadPro2_11, [0000024C694ECE00][0000024C6B284300 49] iPadPro3_129, [0000024C6A5D3E00][0000024C6B288480 49] iPadPro4_129, [0000024C694ED000][0000024C6B28C600 49] AppleTV, [0000024C6A5D2A00][0000024C6B290780 49] AppleTV4K, [0000024C694EDF00][0000024C6B294900 49] TVOS, [0000024C6A5D0B00][0000024C6B298A80 49] Mac, [0000024C694EFA00][0000024C6B29CC00 49] MacClient, [0000024C6A5D3600][0000024C6B2A0D80 49] MacNoEditor, [0000024C694ED800][0000024C6B2A4F00 49] MacServer, [0000024C6A5D1A00][0000024C6B261040 49] Linux, [0000024C694EEF00][0000024C6B2A9180 49] LinuxAArch64, [0000024C6A5D1600][0000024C6B2AD2C0 49] LinuxNoEditor, [0000024C694EC300][0000024C6B2B5440 49] LinuxAArch64NoEditor, [0000024C6A5D2400][0000024C6B2B95C0 49] LinuxClient, [0000024C694EF600][0000024C6B2BD740 49] LinuxAArch64Client, [0000024C6A5D2700][0000024C6B2C18C0 49] LinuxServer, [0000024C694EF900][0000024C6B2C5A40 49] LinuxAArch64Server, [0000024C6A5D0A00][0000024C6B2C9BC0 49] Android, [0000024C694ECD00][0000024C6B2CC1C0 49] Android_Low, [0000024C6A5D1D00][0000024C6B2D0340 49] Android_Mid, [0000024C694EF800][0000024C6B2D44C0 49] Android_High, [0000024C6A5D2800][0000024C6B2D8640 49] Android_Default, [0000024C694ED200][0000024C6B2DC7C0 49] Android_Adreno4xx, [0000024C6A5D2F00][0000024C6B2E0940 49] Android_Adreno5xx_Low, [0000024C694EC500][0000024C6B2E4AC0 49] Android_Adreno5xx, [0000024C6A5DB900][0000024C6B2E8C40 49] Android_Adreno6xx, [0000024C694BCC00][0000024C6B2ECDC0 49] Android_Adreno6xx_Vulkan, [0000024C6A5D9000][0000024C6B2F0F40 49] Android_Mali_T6xx, [0000024C694BD100][0000024C6B2F50C0 49] Android_Mali_T7xx, [0000024C6A5D9400][0000024C6B2B1200 49] Android_Mali_T8xx, [0000024C694BDA00][0000024C6B2F9340 49] Android_Mali_G71, [0000024C6A5D8E00][0000024C6B2FD480 49] Android_Mali_G72, [0000024C694BF900][0000024C6B3015C0 49] Android_Mali_G72_Vulkan, [0000024C6A5D8400][0000024C6B309740 49] Android_Mali_G76, [0000024C694BFA00][0000024C6B30D8C0 49] Android_Mali_G76_Vulkan, [0000024C6A5DB400][0000024C6B311A40 49] Android_Mali_G77, [0000024C694BE900][0000024C6B315BC0 49] Android_Mali_G77_Vulkan, [0000024C6A5D8B00][0000024C6B3181C0 49] Android_Mali_G78, [0000024C694BF400][0000024C6B31C340 49] Android_Mali_G78_Vulkan, [0000024C6A5DB800][0000024C6B3204C0 49] Android_Mali_G710, [0000024C694BCF00][0000024C6B324640 49] Android_Mali_G710_Vulkan, [0000024C6A5D8F00][0000024C6B3287C0 49] Android_Vulkan_SM5, [0000024C694BFB00][0000024C6B32C940 49] Android_PowerVR_G6xxx, [0000024C6A5D8D00][0000024C6B330AC0 49] Android_PowerVR_GT7xxx, [0000024C694BF800][0000024C6B334C40 49] Android_PowerVR_GE8xxx, [0000024C6A5DAB00][0000024C6B338DC0 49] Android_PowerVR_GM9xxx, [0000024C694BF100][0000024C6B33CF40 49] Android_PowerVR_GM9xxx_Vulkan, [0000024C6A5D8100][0000024C6B3410C0 49] Android_TegraK1, [0000024C694BE500][0000024C6B345240 49] Android_Unknown_Vulkan, [0000024C6A5D9100][0000024C6B305380 49] Lumin, [0000024C694BEE00][0000024C6B3494C0 49] Lumin_Desktop, [0000024C6A5D9300][0000024C6B34D600 49] HoloLens, 
+[2023.12.02-05.46.49:650][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.12.02-05.46.49:650][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.12.02-05.46.49:650][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.12.02-05.46.49:650][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.12.02-05.46.49:650][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.12.02-05.46.49:678][  0]LogNetVersion: BaseSample 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2954756313)
+[2023.12.02-05.46.50:239][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.12.02-05.46.50:297][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.12.02-05.46.50:302][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.12.02-05.46.50:302][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.12.02-05.46.50:302][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.12.02-05.46.50:727][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B517308B4489781CD96024A4EF144571 | Instance: A5D217184BEB8F4C5682CB91BE434CE7 (DESKTOP-6MDHMP5-2104).
+[2023.12.02-05.46.50:775][  0]LogPython: Using Python 3.7.7
+[2023.12.02-05.46.51:376][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.12.02-05.46.51:383][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.12.02-05.46.51:643][  0]SourceControl: Source control is disabled
+[2023.12.02-05.46.51:643][  0]SourceControl: Source control is disabled
+[2023.12.02-05.46.51:649][  0]SourceControl: Source control is disabled
+[2023.12.02-05.46.51:654][  0]SourceControl: Source control is disabled
+[2023.12.02-05.46.51:671][  0]SourceControl: Source control is disabled
+[2023.12.02-05.46.51:682][  0]LogUProjectInfo: Found projects:
+[2023.12.02-05.46.51:690][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.12.02-05.46.51:691][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.12.02-05.46.51:691][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.12.02-05.46.52:015][  0]LogOpenImageDenoise: OIDN starting up
+[2023.12.02-05.46.52:085][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.12.02-05.46.52:123][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.02-05.46.52:123][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.12.02-05.46.52:312][  0]LogCollectionManager: Loaded 0 collections in 0.000647 seconds
+[2023.12.02-05.46.52:346][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Brown/Fall2023MDIA422/BaseSample/Saved/Collections/' took 0.00s
+[2023.12.02-05.46.52:346][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Brown/Fall2023MDIA422/BaseSample/Content/Developers/lewis/Collections/' took 0.00s
+[2023.12.02-05.46.52:346][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Brown/Fall2023MDIA422/BaseSample/Content/Collections/' took 0.00s
+[2023.12.02-05.46.52:346][  0]LogOcInput: OculusInput pre-init called
+[2023.12.02-05.46.52:692][  0]LogEngine: Initializing Engine...
+[2023.12.02-05.46.52:695][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.12.02-05.46.52:695][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.12.02-05.46.52:695][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.12.02-05.46.52:696][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.12.02-05.46.52:830][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.12.02-05.46.52:841][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.12.02-05.46.52:842][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.12.02-05.46.52:848][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.12.02-05.46.52:850][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.12.02-05.46.52:850][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.12.02-05.46.52:850][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.12.02-05.46.52:850][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.02-05.46.52:850][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.02-05.46.52:850][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.02-05.46.52:850][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.02-05.46.52:850][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.02-05.46.52:850][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.02-05.46.52:850][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.02-05.46.52:850][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.02-05.46.52:851][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.02-05.46.52:851][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.02-05.46.52:851][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.02-05.46.52:851][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.02-05.46.52:861][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.02-05.46.52:861][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.12.02-05.46.52:875][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.12.02-05.46.52:877][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.02-05.46.52:886][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.02-05.46.52:886][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.02-05.46.52:887][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.02-05.46.52:887][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.02-05.46.52:887][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.02-05.46.52:887][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.02-05.46.52:887][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.02-05.46.52:887][  0]LogInit: FAudioDevice initialized.
+[2023.12.02-05.46.52:888][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.12.02-05.46.52:888][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.12.02-05.46.53:053][  0]LogDerivedDataCache: Saved boot cache 0.16s 116MB C:/Users/lewis/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.12.02-05.46.53:055][  0]LogInit: Texture streaming: Enabled
+[2023.12.02-05.46.53:075][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.12.02-05.46.53:083][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.12.02-05.46.53:083][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.12.02-05.46.53:097][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.12.02-05.46.53:134][  0]LogInit: Transaction tracking system initialized
+[2023.12.02-05.46.53:171][  0]BlueprintLog: New page: Editor Load
+[2023.12.02-05.46.53:262][  0]LocalizationService: Localization service is disabled
+[2023.12.02-05.46.53:301][  0]TimingProfiler: Initialize
+[2023.12.02-05.46.53:301][  0]TimingProfiler: OnSessionChanged
+[2023.12.02-05.46.53:301][  0]LoadingProfiler: Initialize
+[2023.12.02-05.46.53:301][  0]LoadingProfiler: OnSessionChanged
+[2023.12.02-05.46.53:301][  0]NetworkingProfiler: Initialize
+[2023.12.02-05.46.53:301][  0]NetworkingProfiler: OnSessionChanged
+[2023.12.02-05.46.53:301][  0]MemoryProfiler: Initialize
+[2023.12.02-05.46.53:301][  0]MemoryProfiler: OnSessionChanged
+[2023.12.02-05.46.53:383][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.12.02-05.46.53:383][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.12.02-05.46.53:384][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.12.02-05.46.53:524][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.12.02-05.46.53:524][  0]LogCook: Display: Mobile HDR setting 1
+[2023.12.02-05.46.53:807][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Brown/Fall2023MDIA422/BaseSample/Content/' took 0.02s
+[2023.12.02-05.46.54:114][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.12.02-05.46.54:122][  0]SourceControl: Source control is disabled
+[2023.12.02-05.46.54:122][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.186
+[2023.12.02-05.46.54:123][  0]Cmd: MAP LOAD FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.02-05.46.54:123][  0]LightingResults: New page: Lighting Build
+[2023.12.02-05.46.54:124][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.46.54:124][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.46.54:124][  0]MapCheck: New page: Map Check
+[2023.12.02-05.46.54:124][  0]LightingResults: New page: Lighting Build
+[2023.12.02-05.46.54:128][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.02-05.46.54:129][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.02-05.46.54:419][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.12.02-05.46.54:419][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.12.02-05.46.54:426][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.02-05.46.54:433][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.12.02-05.46.54:433][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.02-05.46.54:433][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2023.12.02-05.46.54:433][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.311
+[2023.12.02-05.46.54:436][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.499
+[2023.12.02-05.46.54:570][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.46.54:574][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.46.54:579][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.46.54:584][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.46.54:603][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3822 classes and 928 folders.
+[2023.12.02-05.46.54:605][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.12.02-05.46.54:611][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.02-05.46.54:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.02-05.46.54:611][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:611][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.12.02-05.46.54:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.12.02-05.46.54:613][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.12.02-05.46.54:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.12.02-05.46.54:613][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:613][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.12.02-05.46.54:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.12.02-05.46.54:614][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.12.02-05.46.54:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.12.02-05.46.54:614][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:614][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.12.02-05.46.54:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.12.02-05.46.54:616][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.02-05.46.54:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.02-05.46.54:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.12.02-05.46.54:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.12.02-05.46.54:618][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.12.02-05.46.54:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.12.02-05.46.54:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.12.02-05.46.54:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:619][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.12.02-05.46.54:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.12.02-05.46.54:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.12.02-05.46.54:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:621][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.12.02-05.46.54:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.12.02-05.46.54:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.12.02-05.46.54:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.12.02-05.46.54:623][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.12.02-05.46.54:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.12.02-05.46.54:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.12.02-05.46.54:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:624][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.02-05.46.54:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.02-05.46.54:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.12.02-05.46.54:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:627][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.12.02-05.46.54:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.12.02-05.46.54:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.12.02-05.46.54:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.12.02-05.46.54:629][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.12.02-05.46.54:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.12.02-05.46.54:629][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:629][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.12.02-05.46.54:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.12.02-05.46.54:630][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.02-05.46.54:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.02-05.46.54:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.12.02-05.46.54:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.12.02-05.46.54:632][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.02-05.46.54:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.02-05.46.54:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.12.02-05.46.54:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:633][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.02-05.46.54:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.02-05.46.54:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.12.02-05.46.54:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:635][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.12.02-05.46.54:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.12.02-05.46.54:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.12.02-05.46.54:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.12.02-05.46.54:637][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.02-05.46.54:638][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:638][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.02-05.46.54:638][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:638][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.12.02-05.46.54:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.12.02-05.46.54:639][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.12.02-05.46.54:639][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:639][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.12.02-05.46.54:639][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:639][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.12.02-05.46.54:639][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.12.02-05.46.54:642][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.02-05.46.54:642][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:642][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.02-05.46.54:642][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:642][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.12.02-05.46.54:642][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.12.02-05.46.54:644][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.02-05.46.54:644][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:644][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.02-05.46.54:644][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:644][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.12.02-05.46.54:644][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.12.02-05.46.54:646][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.02-05.46.54:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.02-05.46.54:646][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:646][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.12.02-05.46.54:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:648][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.12.02-05.46.54:648][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:648][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.12.02-05.46.54:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.12.02-05.46.54:648][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.12.02-05.46.54:649][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.12.02-05.46.54:649][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:649][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.12.02-05.46.54:649][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:649][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.12.02-05.46.54:649][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.12.02-05.46.54:651][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.12.02-05.46.54:651][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:651][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.12.02-05.46.54:651][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:651][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.12.02-05.46.54:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:653][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.12.02-05.46.54:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.12.02-05.46.54:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.12.02-05.46.54:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.12.02-05.46.54:654][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.12.02-05.46.54:654][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:654][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.12.02-05.46.54:654][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:654][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.12.02-05.46.54:654][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.12.02-05.46.54:656][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.12.02-05.46.54:656][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.12.02-05.46.54:656][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.12.02-05.46.54:656][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.12.02-05.46.54:656][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.12.02-05.46.54:656][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.12.02-05.46.54:769][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.12.02-05.46.54:769][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.12.02-05.46.54:842][  0]LogSlate: Took 0.000718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.02-05.46.54:843][  0]LogSlate: Took 0.000561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.02-05.46.54:844][  0]LogSlate: Took 0.000466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.12.02-05.46.54:922][  0]LogRenderer: Reallocating scene render targets to support 1100x548 Format 9 NumSamples 1 (Frame:1).
+[2023.12.02-05.46.54:986][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.12.02-05.46.54:986][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.12.02-05.46.54:986][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.12.02-05.46.54:986][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.12.02-05.46.54:986][  0]LogLoad: (Engine Initialization) Total time: 10.05 seconds
+[2023.12.02-05.46.54:986][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.12.02-05.46.55:029][  0]LogAssetRegistry: Asset discovery search completed in 5.7410 seconds
+[2023.12.02-05.46.55:042][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.12.02-05.46.55:042][  0]LogContentStreaming: Texture pool size now 600 MB
+[2023.12.02-05.46.55:204][  3]LogSlate: Took 0.000697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.02-05.46.57:790][279]LogSlate: Took 0.000603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.02-05.46.57:815][279]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Maps/MainWidget.MainWidget
+[2023.12.02-05.46.58:069][279]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.12.02-05.46.59:049][279]LogSlate: Took 0.000702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.02-05.47.04:657][875]LogSlate: Window 'MainWidget' being destroyed
+[2023.12.02-05.47.06:178][ 47]LogSlate: Window 'MainWidget' being destroyed
+[2023.12.02-05.47.06:183][ 47]LogSlate: Window 'MainWidget' being destroyed
+[2023.12.02-05.47.06:184][ 47]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.47.06:184][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.47.06:191][ 47]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.47.06:191][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.47.07:601][195]LogBlueprint: Error: [AssetLog] D:\Users\Brown\Fall2023MDIA422\BaseSample\Content\ThirdPersonBP\Maps\Game_Over.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2023.12.02-05.47.07:601][195]LogBlueprint: Error: [AssetLog] D:\Users\Brown\Fall2023MDIA422\BaseSample\Content\ThirdPersonBP\Maps\Game_Over.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.12.02-05.47.07:642][195]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-05.47.08:034][195]LogSlate: Took 0.000625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.12.02-05.47.34:467][125]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-05.47.34:525][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.12.02-05.47.35:026][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-05.47.35:033][161]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_Over7C7F775A42F434F498A6FC9C1F2B4028.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-05.47.35:055][161]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-05.47.35:055][161]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-05.47.36:504][297]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.47.36:504][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.47.36:511][297]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.47.36:511][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.47.42:187][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.12.02-05.47.43:074][852]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Brown.Brown
+[2023.12.02-05.47.43:074][852]Cmd: MAP LOAD FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.12.02-05.47.43:074][852]LightingResults: New page: Lighting Build
+[2023.12.02-05.47.43:074][852]LoadErrors: New page: Loading map: Brown.umap
+[2023.12.02-05.47.43:126][852]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.47.43:126][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.47.43:126][852]MapCheck: New page: Map Check
+[2023.12.02-05.47.43:126][852]LightingResults: New page: Lighting Build
+[2023.12.02-05.47.43:150][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.02-05.47.43:155][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.12.02-05.47.43:156][852]LogAudio: Display: Audio Device (ID: 1) registered with world 'Brown'.
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.47.43:159][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.47.43:260][852]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.02-05.47.43:260][852]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-05.47.43:279][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.02-05.47.43:284][852]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.02-05.47.43:284][852]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2023.12.02-05.47.43:284][852]LogFileHelpers: Loading map 'Brown' took 0.210
+[2023.12.02-05.47.51:506][814]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.51:926][856]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.52:901][967]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.53:272][  6]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.53:587][ 40]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.53:909][ 75]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.56:202][339]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.56:545][373]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.56:846][404]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fog5)
+[2023.12.02-05.47.59:545][715]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox4)
+[2023.12.02-05.48.06:428][470]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.Brown
+[2023.12.02-05.48.06:791][471]LogSlate: Took 0.000665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.12.02-05.49.07:752][419]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.02-05.49.07:752][419]LogEditorClassViewer: Warning: Class /Game/3D_Character/Med_BP.PLACEHOLDER-CLASS__Door_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.02-05.54.11:410][193]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-05.54.13:832][434]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-05.54.13:859][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.12.02-05.54.14:396][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-05.54.14:403][487]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_Over068939C44391045315B48FB55FF19F29.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-05.54.14:417][487]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-05.54.14:417][487]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-05.55.00:991][878]LogEditorTransaction: Undo Remove Widget
+[2023.12.02-05.55.19:800][960]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-05.55.19:831][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.12.02-05.55.20:646][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-05.55.20:652][ 33]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_OverDB90ECAD42779C555CED60A9C4628925.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-05.55.20:670][ 33]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-05.55.20:670][ 33]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-05.55.23:670][350]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.12.02-05.55.23:687][350]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.02-05.55.27:879][802]BlueprintLog: New page: Compile Brown
+[2023.12.02-05.55.27:922][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.12.02-05.55.28:437][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Brown" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.02-05.55.28:455][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.12.02-05.55.28:531][844]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/BrownC7E69E754B126C9807B5C89B93C71D91.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap'
+[2023.12.02-05.55.28:537][844]LogFileHelpers: Saving map 'Brown' took 0.102
+[2023.12.02-05.55.28:554][844]AssetCheck: New page: Asset Save: Brown
+[2023.12.02-05.55.28:554][844]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Brown.Brown
+[2023.12.02-05.55.31:451][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Brown" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.02-05.55.31:471][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.12.02-05.55.31:547][152]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Brown47AD3B1D4EC03A51054F75B3E0C3F75B.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap'
+[2023.12.02-05.55.31:555][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Brown_BuiltData" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown_BuiltData.uasset" SILENT=true
+[2023.12.02-05.55.32:131][152]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Brown_BuiltDataFEFAF29F4AEEEDD9E79503B110A78A83.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown_BuiltData.uasset'
+[2023.12.02-05.55.32:174][152]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.02-05.55.32:174][152]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Brown.Brown
+[2023.12.02-05.55.32:174][152]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Brown_BuiltData.Brown_BuiltData
+[2023.12.02-05.55.32:754][214]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.02-05.55.32:763][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.02-05.55.32:763][214]PIE: New page: PIE session: Brown (Dec 1, 2023, 7:55:32 PM)
+[2023.12.02-05.55.32:764][214]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.12.02-05.55.32:765][214]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.12.02-05.55.32:765][214]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-05.55.32:789][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023551s)
+[2023.12.02-05.55.32:790][214]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-05.55.32:790][214]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2023.12.02-05.55.32:790][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Brown.Brown to /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown (0.024602s)
+[2023.12.02-05.55.32:810][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.12.02-05.55.32:811][214]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.02-05.55.32:811][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.02-05.55.32:811][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.02-05.55.32:811][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.02-05.55.32:811][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.02-05.55.32:811][214]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.02-05.55.32:811][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.02-05.55.32:811][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.02-05.55.32:811][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.02-05.55.32:811][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.02-05.55.32:811][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.02-05.55.32:811][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.02-05.55.32:811][214]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.02-05.55.32:813][214]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.02-05.55.32:813][214]LogAudioMixer: Display: 1: FrontRight
+[2023.12.02-05.55.32:823][214]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.12.02-05.55.32:824][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.02-05.55.32:824][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.02-05.55.32:824][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.02-05.55.32:824][214]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.02-05.55.32:824][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.02-05.55.32:824][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.02-05.55.32:825][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.02-05.55.32:825][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.02-05.55.32:825][214]LogInit: FAudioDevice initialized.
+[2023.12.02-05.55.32:825][214]LogAudio: Display: Audio Device (ID: 2) registered with world 'Brown'.
+[2023.12.02-05.55.32:831][214]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.55.32:834][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.55.32:835][214]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.55.32:835][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.55.32:835][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.55.32:839][214]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown up for play (max tick rate 0) at 2023.12.02-00.55.32
+[2023.12.02-05.55.32:839][214]LogWorld: Bringing up level for play took: 0.007722
+[2023.12.02-05.55.32:840][214]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.12.02-05.55.32:845][214]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.12.02-05.55.32:847][214]PIE: Server logged in
+[2023.12.02-05.55.32:847][214]PIE: Play in editor total start time 0.089 seconds.
+[2023.12.02-05.56.35:018][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.56.35:018][590]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-05.56.35:018][590]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.56.35:019][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.56.35:024][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.02-05.56.35:038][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.56.35:061][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.56.35:061][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-05.56.35:062][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-05.56.35:074][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.12.02-05.56.35:100][591]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.12.02-05.56.53:454][542]BlueprintLog: New page: Compile Brown
+[2023.12.02-05.56.53:496][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.12.02-05.56.53:958][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Brown" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.02-05.56.53:982][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.02-05.56.54:056][579]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Brown24302BF343F46048D6F0FFA389D5284F.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap'
+[2023.12.02-05.56.54:063][579]LogFileHelpers: Saving map 'Brown' took 0.104
+[2023.12.02-05.56.54:084][579]AssetCheck: New page: Asset Save: Brown
+[2023.12.02-05.56.54:085][579]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Brown.Brown
+[2023.12.02-05.56.56:164][797]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.02-05.56.56:175][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.02-05.56.56:175][797]PIE: New page: PIE session: Brown (Dec 1, 2023, 7:56:56 PM)
+[2023.12.02-05.56.56:201][797]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-05.56.56:229][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027606s)
+[2023.12.02-05.56.56:229][797]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-05.56.56:230][797]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2023.12.02-05.56.56:230][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Brown.Brown to /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown (0.028866s)
+[2023.12.02-05.56.56:254][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.12.02-05.56.56:256][797]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.12.02-05.56.56:256][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.02-05.56.56:256][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.02-05.56.56:256][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.02-05.56.56:256][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.02-05.56.56:256][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.02-05.56.56:256][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.02-05.56.56:256][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.02-05.56.56:256][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.02-05.56.56:256][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.02-05.56.56:256][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.02-05.56.56:256][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.02-05.56.56:256][797]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.02-05.56.56:258][797]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.02-05.56.56:258][797]LogAudioMixer: Display: 1: FrontRight
+[2023.12.02-05.56.56:266][797]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.12.02-05.56.56:267][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.02-05.56.56:267][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.02-05.56.56:267][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.02-05.56.56:267][797]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.02-05.56.56:267][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.02-05.56.56:267][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.02-05.56.56:268][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.02-05.56.56:268][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.02-05.56.56:268][797]LogInit: FAudioDevice initialized.
+[2023.12.02-05.56.56:268][797]LogAudio: Display: Audio Device (ID: 3) registered with world 'Brown'.
+[2023.12.02-05.56.56:277][797]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.12.02-05.56.56:279][797]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.56.56:279][797]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.56.56:279][797]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.56.56:279][797]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.56.56:279][797]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.56.56:279][797]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.56.56:279][797]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.56.56:280][797]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.56.56:284][797]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown up for play (max tick rate 0) at 2023.12.02-00.56.56
+[2023.12.02-05.56.56:285][797]LogWorld: Bringing up level for play took: 0.007665
+[2023.12.02-05.56.56:285][797]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.12.02-05.56.56:288][797]PIE: Server logged in
+[2023.12.02-05.56.56:288][797]PIE: Play in editor total start time 0.118 seconds.
+[2023.12.02-05.57.58:976][269]LogNet: Browse: /Game/ThirdPersonBP/Maps/Brown
+[2023.12.02-05.57.58:976][269]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Brown
+[2023.12.02-05.57.58:976][269]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-05.57.58:976][269]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.57.58:977][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.57.59:037][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.02-05.57.59:041][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.12.02-05.57.59:043][269]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-05.57.59:066][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023429s)
+[2023.12.02-05.57.59:067][269]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-05.57.59:067][269]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2023.12.02-05.57.59:067][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Brown.Brown to /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown (0.024448s)
+[2023.12.02-05.57.59:067][269]LogAudio: Display: Audio Device (ID: 3) registered with world 'Brown'.
+[2023.12.02-05.57.59:067][269]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.57.59:074][269]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.57.59:077][269]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown up for play (max tick rate 0) at 2023.12.02-00.57.59
+[2023.12.02-05.57.59:078][269]LogWorld: Bringing up level for play took: 0.009744
+[2023.12.02-05.57.59:079][269]LogLoad: Took 0.103645 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Brown)
+[2023.12.02-05.58.01:861][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.58.01:861][594]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-05.58.01:861][594]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.58.01:866][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.58.01:878][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.02-05.58.01:902][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.58.01:925][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.58.01:926][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-05.58.01:927][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-05.58.01:932][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.12.02-05.58.01:961][595]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.12.02-05.58.12:650][769]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.02-05.58.12:661][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.02-05.58.12:661][769]PIE: New page: PIE session: Brown (Dec 1, 2023, 7:58:12 PM)
+[2023.12.02-05.58.12:661][769]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-05.58.12:685][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023446s)
+[2023.12.02-05.58.12:686][769]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-05.58.12:686][769]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2023.12.02-05.58.12:686][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Brown.Brown to /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown (0.024547s)
+[2023.12.02-05.58.12:711][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.12.02-05.58.12:714][769]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.12.02-05.58.12:714][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.02-05.58.12:714][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.02-05.58.12:714][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.02-05.58.12:714][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.02-05.58.12:714][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.02-05.58.12:714][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.02-05.58.12:714][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.02-05.58.12:714][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.02-05.58.12:715][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.02-05.58.12:715][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.02-05.58.12:715][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.02-05.58.12:715][769]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.02-05.58.12:717][769]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.02-05.58.12:717][769]LogAudioMixer: Display: 1: FrontRight
+[2023.12.02-05.58.12:724][769]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.12.02-05.58.12:725][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.02-05.58.12:725][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.02-05.58.12:725][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.02-05.58.12:725][769]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.02-05.58.12:725][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.02-05.58.12:725][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.02-05.58.12:726][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.02-05.58.12:726][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.02-05.58.12:726][769]LogInit: FAudioDevice initialized.
+[2023.12.02-05.58.12:726][769]LogAudio: Display: Audio Device (ID: 4) registered with world 'Brown'.
+[2023.12.02-05.58.12:796][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.58.12:817][769]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-05.58.12:820][769]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-05.58.12:825][769]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown up for play (max tick rate 0) at 2023.12.02-00.58.12
+[2023.12.02-05.58.12:826][769]LogWorld: Bringing up level for play took: 0.008027
+[2023.12.02-05.58.12:826][769]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.12.02-05.58.12:830][769]PIE: Server logged in
+[2023.12.02-05.58.12:830][769]PIE: Play in editor total start time 0.175 seconds.
+[2023.12.02-05.58.12:867][770]LogRenderer: Reallocating scene render targets to support 1280x720 Format 9 NumSamples 1 (Frame:1).
+[2023.12.02-05.59.16:739][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-05.59.16:746][247]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-05.59.16:746][247]LogSlate: Window 'BaseSample Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.12.02-05.59.16:792][247]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.59.16:795][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.59.16:806][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.02-05.59.16:822][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.59.16:845][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.02-05.59.16:845][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-05.59.16:846][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-05.59.16:853][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.12.02-05.59.16:867][248]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.12.02-05.59.31:902][908]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Maps/MainWidget.MainWidget
+[2023.12.02-05.59.47:155][328]LogSlate: Window 'MainWidget' being destroyed
+[2023.12.02-05.59.48:980][509]LogSlate: Window 'MainWidget' being destroyed
+[2023.12.02-05.59.49:013][509]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.59.49:013][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-05.59.49:019][509]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-05.59.49:019][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.00.29:088][936]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-06.00.29:128][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.12.02-06.00.29:574][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-06.00.29:580][969]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_OverCAF66EAB4F45678F262D9F8B39F33288.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-06.00.29:597][969]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-06.00.29:597][969]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-06.01.11:613][858]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-06.01.11:657][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.12.02-06.01.12:165][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-06.01.12:171][893]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_Over46B7350B45BE6F8AF09EB2883F99CD2A.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-06.01.12:191][893]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-06.01.12:191][893]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-06.01.23:718][209]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.02-06.01.29:008][802]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.02-06.01.40:791][960]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-06.01.40:834][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.12.02-06.01.41:267][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-06.01.41:273][993]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_OverAB55E927441B32D59E4A5798F22ABB5A.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-06.01.41:293][993]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-06.01.41:293][993]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-06.01.49:133][814]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.02-06.01.49:142][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.02-06.01.49:142][814]PIE: New page: PIE session: Brown (Dec 1, 2023, 8:01:49 PM)
+[2023.12.02-06.01.49:143][814]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-06.01.49:166][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023346s)
+[2023.12.02-06.01.49:167][814]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-06.01.49:167][814]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2023.12.02-06.01.49:167][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Brown.Brown to /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown (0.024271s)
+[2023.12.02-06.01.49:194][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.12.02-06.01.49:197][814]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.12.02-06.01.49:197][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.02-06.01.49:197][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.02-06.01.49:197][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.02-06.01.49:197][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.02-06.01.49:197][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.02-06.01.49:197][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.02-06.01.49:197][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.02-06.01.49:198][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.02-06.01.49:198][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.02-06.01.49:198][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.02-06.01.49:198][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.02-06.01.49:198][814]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.02-06.01.49:200][814]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.02-06.01.49:200][814]LogAudioMixer: Display: 1: FrontRight
+[2023.12.02-06.01.49:210][814]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.12.02-06.01.49:210][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.02-06.01.49:210][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.02-06.01.49:210][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.02-06.01.49:210][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.02-06.01.49:210][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.02-06.01.49:210][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.02-06.01.49:210][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.02-06.01.49:210][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.02-06.01.49:210][814]LogInit: FAudioDevice initialized.
+[2023.12.02-06.01.49:210][814]LogAudio: Display: Audio Device (ID: 5) registered with world 'Brown'.
+[2023.12.02-06.01.49:253][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-06.01.49:253][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.01.49:256][814]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.01.49:261][814]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown up for play (max tick rate 0) at 2023.12.02-01.01.49
+[2023.12.02-06.01.49:262][814]LogWorld: Bringing up level for play took: 0.008254
+[2023.12.02-06.01.49:262][814]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.12.02-06.01.49:265][814]PIE: Server logged in
+[2023.12.02-06.01.49:266][814]PIE: Play in editor total start time 0.128 seconds.
+[2023.12.02-06.02.51:044][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-06.02.51:044][ 70]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-06.02.51:045][ 70]LogSlate: Window 'BaseSample Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.12.02-06.02.51:054][ 70]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-06.02.51:056][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.02.51:062][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.02-06.02.51:077][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.02.51:100][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.02-06.02.51:101][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-06.02.51:102][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-06.02.51:109][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.12.02-06.02.51:124][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.12.02-06.02.58:556][905]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Specified Color entirely.
+[2023.12.02-06.02.59:779][ 48]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.02-06.03.00:999][192]LogEditorTransaction: Undo Edit Specified Color
+[2023.12.02-06.03.01:511][212]LogEditorTransaction: Undo Edit Color and Opacity
+[2023.12.02-06.05.06:757][364]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.02-06.05.31:077][155]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-06.05.31:127][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.12.02-06.05.31:924][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-06.05.31:932][223]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_Over363676D849A449D1D2BB3EA322638964.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-06.05.31:946][223]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-06.05.31:946][223]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-06.05.32:605][292]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.02-06.05.32:615][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.02-06.05.32:616][292]PIE: New page: PIE session: Brown (Dec 1, 2023, 8:05:32 PM)
+[2023.12.02-06.05.32:616][292]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-06.05.32:640][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024045s)
+[2023.12.02-06.05.32:641][292]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-06.05.32:641][292]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2023.12.02-06.05.32:641][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Brown.Brown to /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown (0.025166s)
+[2023.12.02-06.05.32:668][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.12.02-06.05.32:669][292]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.12.02-06.05.32:669][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.02-06.05.32:669][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.02-06.05.32:669][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.02-06.05.32:669][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.02-06.05.32:669][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.02-06.05.32:669][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.02-06.05.32:669][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.02-06.05.32:669][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.02-06.05.32:669][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.02-06.05.32:669][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.02-06.05.32:669][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.02-06.05.32:670][292]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.02-06.05.32:672][292]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.02-06.05.32:672][292]LogAudioMixer: Display: 1: FrontRight
+[2023.12.02-06.05.32:680][292]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.12.02-06.05.32:680][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.02-06.05.32:680][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.02-06.05.32:680][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.02-06.05.32:681][292]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.02-06.05.32:681][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.02-06.05.32:681][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.02-06.05.32:681][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.02-06.05.32:681][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.02-06.05.32:681][292]LogInit: FAudioDevice initialized.
+[2023.12.02-06.05.32:681][292]LogAudio: Display: Audio Device (ID: 6) registered with world 'Brown'.
+[2023.12.02-06.05.32:722][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-06.05.32:722][292]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.05.32:724][292]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.05.32:725][292]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.05.32:730][292]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown up for play (max tick rate 0) at 2023.12.02-01.05.32
+[2023.12.02-06.05.32:730][292]LogWorld: Bringing up level for play took: 0.008160
+[2023.12.02-06.05.32:731][292]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.12.02-06.05.32:734][292]PIE: Server logged in
+[2023.12.02-06.05.32:735][292]PIE: Play in editor total start time 0.124 seconds.
+[2023.12.02-06.06.38:161][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-06.06.38:166][976]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-06.06.38:166][976]LogSlate: Window 'BaseSample Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.12.02-06.06.38:200][976]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-06.06.38:202][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.06.38:219][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.02-06.06.38:246][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.06.38:269][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.02-06.06.38:270][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-06.06.38:270][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-06.06.38:276][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.12.02-06.06.38:291][977]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.12.02-06.08.14:864][165]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.02-06.08.41:337][194]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-06.08.41:371][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.12.02-06.08.42:009][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-06.08.42:016][245]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_Over94CF58324BA66B77908A3CAD7219AB5A.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-06.08.42:031][245]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-06.08.42:031][245]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-06.08.43:596][394]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.02-06.08.43:607][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.02-06.08.43:607][394]PIE: New page: PIE session: Brown (Dec 1, 2023, 8:08:43 PM)
+[2023.12.02-06.08.43:641][394]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-06.08.43:682][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041453s)
+[2023.12.02-06.08.43:683][394]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-06.08.43:683][394]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2023.12.02-06.08.43:683][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Brown.Brown to /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown (0.042748s)
+[2023.12.02-06.08.43:711][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.12.02-06.08.43:712][394]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.02-06.08.43:712][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.02-06.08.43:712][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.02-06.08.43:712][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.02-06.08.43:712][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.02-06.08.43:712][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.02-06.08.43:712][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.02-06.08.43:712][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.02-06.08.43:712][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.02-06.08.43:713][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.02-06.08.43:713][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.02-06.08.43:713][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.02-06.08.43:713][394]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.02-06.08.43:715][394]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.02-06.08.43:715][394]LogAudioMixer: Display: 1: FrontRight
+[2023.12.02-06.08.43:723][394]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.12.02-06.08.43:723][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.02-06.08.43:723][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.02-06.08.43:723][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.02-06.08.43:723][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.02-06.08.43:723][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.02-06.08.43:723][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.02-06.08.43:724][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.02-06.08.43:724][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.02-06.08.43:724][394]LogInit: FAudioDevice initialized.
+[2023.12.02-06.08.43:724][394]LogAudio: Display: Audio Device (ID: 7) registered with world 'Brown'.
+[2023.12.02-06.08.43:729][394]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.12.02-06.08.43:731][394]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.08.43:731][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.08.43:731][394]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.08.43:732][394]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.08.43:737][394]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown up for play (max tick rate 0) at 2023.12.02-01.08.43
+[2023.12.02-06.08.43:737][394]LogWorld: Bringing up level for play took: 0.007513
+[2023.12.02-06.08.43:737][394]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.12.02-06.08.43:739][394]PIE: Server logged in
+[2023.12.02-06.08.43:741][394]PIE: Play in editor total start time 0.139 seconds.
+[2023.12.02-06.09.45:230][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-06.09.45:236][730]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-06.09.45:271][730]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-06.09.45:273][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.09.45:286][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.02-06.09.45:316][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.09.45:341][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.02-06.09.45:341][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-06.09.45:342][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-06.09.45:344][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-06.09.45:348][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.12.02-06.09.45:389][731]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.12.02-06.09.53:469][666]BlueprintLog: New page: Compile Game_Over
+[2023.12.02-06.09.53:500][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.12.02-06.09.54:174][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Game_Over" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset" SILENT=true
+[2023.12.02-06.09.54:180][721]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Game_Over7CE25FB74067D90C0929829E919FE1B3.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Game_Over.uasset'
+[2023.12.02-06.09.54:196][721]AssetCheck: New page: Asset Save: Game_Over
+[2023.12.02-06.09.54:196][721]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/Game_Over.Game_Over
+[2023.12.02-06.09.55:455][846]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.02-06.09.55:467][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.02-06.09.55:467][846]PIE: New page: PIE session: Brown (Dec 1, 2023, 8:09:55 PM)
+[2023.12.02-06.09.55:467][846]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-06.09.55:492][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023879s)
+[2023.12.02-06.09.55:493][846]LogAIModule: Creating AISystem for world Brown
+[2023.12.02-06.09.55:493][846]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2023.12.02-06.09.55:493][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Brown.Brown to /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown (0.024922s)
+[2023.12.02-06.09.55:520][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.12.02-06.09.55:521][846]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.02-06.09.55:521][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.02-06.09.55:521][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.02-06.09.55:521][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.02-06.09.55:521][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.02-06.09.55:521][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.02-06.09.55:521][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.02-06.09.55:521][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.02-06.09.55:521][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.02-06.09.55:522][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.02-06.09.55:522][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.02-06.09.55:522][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.02-06.09.55:522][846]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.02-06.09.55:524][846]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.02-06.09.55:524][846]LogAudioMixer: Display: 1: FrontRight
+[2023.12.02-06.09.55:532][846]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.12.02-06.09.55:532][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.02-06.09.55:532][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.02-06.09.55:532][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.02-06.09.55:533][846]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.02-06.09.55:533][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.02-06.09.55:533][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.02-06.09.55:534][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.02-06.09.55:534][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.02-06.09.55:534][846]LogInit: FAudioDevice initialized.
+[2023.12.02-06.09.55:534][846]LogAudio: Display: Audio Device (ID: 8) registered with world 'Brown'.
+[2023.12.02-06.09.55:540][846]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.12.02-06.09.55:542][846]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.09.55:543][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.09.55:549][846]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown.Brown up for play (max tick rate 0) at 2023.12.02-01.09.55
+[2023.12.02-06.09.55:549][846]LogWorld: Bringing up level for play took: 0.007916
+[2023.12.02-06.09.55:549][846]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.12.02-06.09.55:552][846]PIE: Server logged in
+[2023.12.02-06.09.55:553][846]PIE: Play in editor total start time 0.091 seconds.
+[2023.12.02-06.10.56:438][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-06.10.56:444][ 99]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Brown
+[2023.12.02-06.10.56:480][ 99]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=true
+[2023.12.02-06.10.56:481][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.10.56:490][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.02-06.10.56:508][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.02-06.10.56:531][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.02-06.10.56:532][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-06.10.56:533][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.02-06.10.56:539][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.12.02-06.10.56:582][100]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.12.02-06.10.57:510][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Brown" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.02-06.10.57:535][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.12.02-06.10.57:611][205]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Brown129C69D64F3698A9B2D253B78DF45140.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown.umap'
+[2023.12.02-06.10.57:619][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Brown_BuiltData" FILE="../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown_BuiltData.uasset" SILENT=true
+[2023.12.02-06.10.57:923][205]LogSavePackage: Moving '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Saved/Brown_BuiltData1E657E194AE26F5A8FCD8682F3892007.tmp' to '../../../../Users/Brown/Fall2023MDIA422/BaseSample/Content/ThirdPersonBP/Maps/Brown_BuiltData.uasset'
+[2023.12.02-06.10.57:940][205]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.02-06.10.57:940][205]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Brown.Brown
+[2023.12.02-06.10.57:940][205]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Brown_BuiltData.Brown_BuiltData
+[2023.12.02-06.10.58:385][248]MapCheck: New page: Map Check
+[2023.12.02-06.10.58:400][248]Cmd: MAP REBUILD ALLVISIBLE
+[2023.12.02-06.10.58:400][248]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.12.02-06.10.58:497][248]LogWorld: UWorld::CleanupWorld for Brown, bSessionEnded=true, bCleanupResources=false
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh15.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh17.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh18.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh19.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh20.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh21.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/Brown.Brown:PersistentLevel.CubeMesh27.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=1.500
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.12.02-06.10.58:501][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.12.02-06.10.58:569][248]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.12.02-06.10.58:569][248]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.12.02-06.10.58:569][248]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.12.02-06.10.58:613][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.12.02-06.10.58:651][248]LogLevel: Display: Export Material TexCoord Scales took 0.038 seconds.
+[2023.12.02-06.10.58:662][248]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2023.12.02-06.10.58:686][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.12.02-06.10.58:690][248]LightingResults: New page: Lighting Build - Dec 1, 2023, 8:10:58 PM
+[2023.12.02-06.10.58:695][248]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2023.12.02-06.10.58:695][248]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.12.02-06.10.58:831][248]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.137 s
+[2023.12.02-06.10.58:831][248]LogOutputDevice: Error: === Handled ensure: ===
+[2023.12.02-06.10.58:831][248]LogOutputDevice: Error: 
+[2023.12.02-06.10.58:831][248]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2023.12.02-06.10.58:831][248]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2023.12.02-06.10.58:831][248]LogOutputDevice: Error: Stack: 
+[2023.12.02-06.10.58:831][248]LogOutputDevice: Error: [Callstack] 0x00007fff43a49326 UE4Editor-Core.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff4336259e UE4Editor-Core.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff1be9835b UE4Editor-Engine.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff1cffd87f UE4Editor-Engine.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff1d005d14 UE4Editor-Engine.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff1d02a70e UE4Editor-Engine.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff3b2557c1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff3b235c88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff3b241408 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff3b236e7b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff3aa2de16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff3aa055af UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff1842821a UE4Editor-LevelEditor.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff184491f7 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a1bcf28 UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a1e2082 UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a1bca87 UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a25a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a27280e UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a0c421e UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a13e104 UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a127097 UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6a119b62 UE4Editor-Slate.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6c91c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6c9092b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6c91e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6c904410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fffc6958241 USER32.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fffc6957d01 USER32.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fff6c91fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007ff609337621 UE4Editor.exe!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007ff609350fcc UE4Editor.exe!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007ff6093510ba UE4Editor.exe!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007ff6093540dd UE4Editor.exe!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007ff609365984 UE4Editor.exe!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007ff60936853a UE4Editor.exe!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fffc72c257d KERNEL32.DLL!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: [Callstack] 0x00007fffc81eaa58 ntdll.dll!UnknownFunction []
+[2023.12.02-06.10.58:832][248]LogOutputDevice: Error: 
